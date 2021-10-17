@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 body{
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
 }
 
 *{
@@ -39,7 +39,7 @@ nav ul li{
 .container{
     min-height:80vh;
     background-color: rgb(8, 6, 6);
-    color: blanchedalmond;
+    color: rgb(255, 255, 255);
     font-family: 'Valera round',sans-serif;
     display: flex;
     width: 70%;
@@ -83,7 +83,7 @@ nav ul li{
 .songitem{
     height: 60px;
     display: flex;
-    background-color: blanchedalmond;
+    background-color: rgb(255, 255, 255);
     
     color: black;
     margin: 25px 0;
