@@ -18,6 +18,7 @@ let songs = [
     {songName: "Let Her Go - Passengers", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "NCS TRACK", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "The Nights - Avicii", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Bulave Tujhe Yaar aj Meri Galiya", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
