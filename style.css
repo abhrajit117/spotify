@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
-    background-color: rgba(64, 238, 64, 0.808);
+    background-color: rgba(5, 151, 5, 0.842);
 }
 
 *{
@@ -68,7 +68,7 @@ nav ul li{
    
 }
 .container h3{
-    color: rgba(255, 255, 255, 0.856);
+    color: rgba(226, 226, 226, 0.856);
 }
 .bottom{
     position: sticky;
@@ -170,6 +170,6 @@ footer li{
 }
 @media only screen and (max-width: 1100px) {
     body {
-      background-color: rgba(55, 209, 49, 0.924);
+      background-color: rgba(14, 160, 9, 0.924);
     }
   }
