@@ -178,3 +178,13 @@ footer li{
       background-color: rgba(14, 160, 9, 0.924);
     }
   }
+
+
+
+
+ #pay {
+     display: flex;
+     display: inline-block;
+     margin-right: 200px;
+ 
+ }
