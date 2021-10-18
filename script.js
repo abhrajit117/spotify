@@ -13,7 +13,7 @@ let songs = [
     {songName: "Attention - Charlie Puth", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Perfect -Ed Sheeran", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Girls Like You - Maroon 5", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: " A Thousand Years - Christina Perri", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "A Thousand Years -Christina Perri", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Teri Meri Kahani", filePath: "songs/5.mp3", coverPath: "covers/5.png"},
     {songName: "Let Her Go - Passengers", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "NCS TRACK", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
