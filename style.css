@@ -51,7 +51,8 @@ nav ul li{
     display: flex;
     align-items: center;
     font-weight: bolder;
-    font-size: 1.3rem;
+    font-size: 2rem;
+    align-items: center;
 }
 
 .container{
@@ -154,13 +155,13 @@ footer {
 footer li{
     display: flex;
     display: inline-block;
-    margin: 30px 60px;
+    margin: 10px 20px 30px 50px ;
     justify-content: center;
     align-items: center;
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(2px);
     
 }
-.footer img{
+.pics img{
     width: 100px;
     margin: 0 10px;
     border-radius: 54px;
