@@ -53,6 +53,7 @@ nav ul li{
     font-weight: bolder;
     font-size: 2rem;
     align-items: center;
+    color: aliceblue;
 }
 
 .container{
@@ -158,7 +159,7 @@ footer li{
     margin: 10px 20px 30px 50px ;
     justify-content: center;
     align-items: center;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(1px);
     
 }
 .pics img{
