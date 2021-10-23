@@ -19,7 +19,7 @@ let songs = [
     {songName: "NCS TRACK", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "The Nights - Avicii", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Bulave Tujhe Yaar aj Meri Galiya", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
-    {songName: "Scars to your beautiful - Alessia Cara", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Your beautiful - Alessia Cara", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
     {songName: "Khaab - Parmish Verma", filePath: "songs/11.mp3", coverPath: "covers/11.jpeg"},
 ]
 
