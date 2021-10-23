@@ -20,7 +20,7 @@ let songs = [
     {songName: "The Nights - Avicii", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Bulave Tujhe Yaar aj Meri Galiya", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     {songName: "Scars to your beautiful - Alessia Cara", filePath: "songs/10.mp3", coverPath: "covers/10.png"},
-    {songName: "Khaab", filePath: "songs/11.mp3", coverPath: "covers/11.jpg"},
+    {songName: "Khaab", filePath: "songs/11.mp3", coverPath: "covers/11.jpeg"},
 ]
 
 songItems.forEach((element, i)=>{ 
